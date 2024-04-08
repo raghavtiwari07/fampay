@@ -1,4 +1,4 @@
-# Fampay YouTube Video Fetcher
+# YouTube Video Fetcher Project -  Raghav Tiwari
 
 Welcome to the Fampay YouTube Video Fetcher! This is a Flask application that fetches the latest videos from YouTube for a given tag/search query in a paginated response. It's designed to be scalable and reliable, making it perfect for projects of all sizes.
 
